@@ -1,4 +1,4 @@
-# Digital_Signal_Processing_Package
+# DigitalSignalProcessingPackage
 This package is for one dimensional signal processing, including transforms like the fourier transform and the inverse fourier transform, discrete cosine transform, and other algorithms that help in:
 1. Digitization of analog signals.
 2. Filtering signals using window method (windows used : hanning, hamming, blackman).
