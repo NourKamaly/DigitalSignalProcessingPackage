@@ -108,6 +108,7 @@
     <None Include="TestingSignals\BSFCoefficients.ds">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="TestingSignals\Cos.ds" />
     <None Include="TestingSignals\CrossCorrelationNonNormalized_TestCase.ds">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -204,6 +205,7 @@
     <None Include="TestingSignals\SignalFileConstruction">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="TestingSignals\Sin.ds" />
     <None Include="TestingSignals\Subtractor_TestCase1.ds">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
